@@ -1,9 +1,10 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 title: RoleManager
 description: A discord bot to cure the headache of managing vanity roles.
 show_downloads: false
 # google_analytics: id-here
-
+url: https://rolemanager.co
+baseurl: /
 markdown: CommonMarkGhPages # used to make code blocks inside of details+summary
 plugins:
   - jekyll-seo-tag #works with github pages
@@ -15,6 +16,3 @@ tagline: A discord bot to cure the headache of managing vanity roles.
 
 whitelist:
   - jekyll-redirect-from
-
-# custom vars
-discord_invite: https://allsystemsoperational.ml/
